@@ -33,7 +33,7 @@ login_admin = http://127.0.0.1:8000/user/login/ its give you a access token and 
 
 get-book = http://127.0.0.1:8000/app/api/
 
-about this api = when you send your jwt token its show your todo only
+about this api = show all book
 
 post-book = http://127.0.0.1:8000/app/api/
 
